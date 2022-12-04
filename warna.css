@@ -275,7 +275,7 @@ body {
   background: rgb(35, 66, 238);
   border-radius: 10px;
   margin-bottom: 25px;
-  box-shadow: 0 7px 14px 0 #3cb37199, inset 0px -5px 7px 0px Mediumrgb(35, 66, 238);
+  box-shadow: 0 7px 14px 0 #11083a99, inset 0px -5px 7px 0px Mediumrgb(35, 66, 238);
 }
 
 .left-sidebar > div:last-of-type {
@@ -285,7 +285,7 @@ body {
 .left-sidebar > div:hover {
   cursor: pointer;
   transform: translateY(-3px);
-  box-shadow: 0 10px 16px 0 #3cb371dd, inset 0px -5px 9px 0px Mediumrgb(35, 66, 238);
+  box-shadow: 0 10px 16px 0 #11083a99, inset 0px -5px 9px 0px Mediumrgb(35, 66, 238);
   border: 1px solid rgb(35, 66, 238);
 }
 
