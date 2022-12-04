@@ -12,7 +12,7 @@ body {
 
 #register{
 
-  color: MediumSpringGreen;
+  color: rgb(35, 66, 238);
 }
 
 h1 {
@@ -30,7 +30,7 @@ input {
 }
 .select12{
     width: 100%;
-    border:1px solid MediumSpringGreen !important;
+    border:1px solid rgb(35, 66, 238) !important;
     border-radius: 10px;
     padding: 5px;
     font-family: Raleway;
@@ -40,13 +40,13 @@ input {
 .item1{
     font-size: 17px;
     font-family: Raleway;
-     border:1px solid MediumSpringGreen !important;
+     border:1px solid rgb(35, 66, 238) !important;
 }
 
 
 .tab input:focus{
 
-  border:1px solid MediumSpringGreen !important;
+  border:1px solid rgb(35, 66, 238) !important;
   outline: none;
 }
 
@@ -60,7 +60,7 @@ input.invalid {
 }
 
 button {
-    background-color: MediumSpringGreen;
+    background-color: rgb(35, 66, 238);
     color: #ffffff;
     border: none;
     border-radius: 50%;
@@ -97,7 +97,7 @@ button:focus{
        height: 40px;
     width: 40px;
     margin: 0 2px;
-    background-color: MediumSpringGreen;
+    background-color: rgb(35, 66, 238);
     border: none;
     border-radius: 50%;
     display: flex;
@@ -114,7 +114,7 @@ button:focus{
 
 
 .step.finish {
-   color:  MediumSpringGreen;
+   color:  rgb(35, 66, 238);
    background: white;
    opacity: 1;
 
